@@ -1,0 +1,5 @@
+This project was created by Dan Malear
+
+The Medieval Network
+
+This application entails a browser-based game in which players sign up as they would a social network, only on this site, they're assigned roles. These roles refer to a fictional universe, where a feudal monarchy is in place, and everyone who signs up finds themselves a part of a family, noble or otherwise. As they interact and play with other players (in the style of Facebook-like features), they will build friendships and rivalries, all with an ulterior motive: power. The game provides certain fictional actions players can take to backstab, blackmail, and otherwise scheme to move themselves upward in the social scale inherent in the feudal system. Power shifts dynamically, and leaving the game unattended could have dire consequences for those with something to lose.
